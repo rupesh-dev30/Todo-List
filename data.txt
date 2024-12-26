@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "todo": "GAMING"
+  },
+  {
+    "id": 4,
+    "todo": "GAMING"
+  },
+  {
+    "id": 5,
+    "todo": "GYM"
+  },
+  {
+    "id": null,
+    "todo": "CRICKET"
+  }
+]
